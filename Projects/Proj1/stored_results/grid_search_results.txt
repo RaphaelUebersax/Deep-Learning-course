@@ -1,0 +1,263 @@
+--------------- Loading data ---------------
+--------------- Data loaded ---------------
+
+
+
+**********************************************************
+- Model: Net	 - lr: 0.03	 - BatchNorm: True
+- Weight sharing: False	 - Auxiliary loss: False
+**********************************************************
+
+The mean error on training target (%):  0.06 with a std of:  0.19
+The mean error on testing target (%):  17.7 with a std of:  1.22
+The last layer's mean Benchmark error at training (%):  51.91 with a std of:  7.23
+The last layer's mean Benchmark error at testing (%):  52.39 with a std of:  6.18
+
+
+**********************************************************
+- Model: LeNet5	 - lr: 0.005	 - BatchNorm: True
+- Weight sharing: False	 - Auxiliary loss: False
+**********************************************************
+
+The mean error on training target (%):  1.04 with a std of:  2.01
+The mean error on testing target (%):  16.46 with a std of:  1.92
+The last layer's mean Benchmark error at training (%):  53.53 with a std of:  18.93
+The last layer's mean Benchmark error at testing (%):  52.76 with a std of:  14.71
+
+
+**********************************************************
+- Model: LeNet5_FullyConv	 - lr: 0.05	 - BatchNorm: True
+- Weight sharing: False	 - Auxiliary loss: False
+**********************************************************
+
+The mean error on training target (%):  0.44 with a std of:  0.34
+The mean error on testing target (%):  17.2 with a std of:  1.06
+The last layer's mean Benchmark error at training (%):  55.79 with a std of:  9.09
+The last layer's mean Benchmark error at testing (%):  56.0 with a std of:  8.04
+
+
+**********************************************************
+- Model: ResNet	 - lr: 0.005	 - BatchNorm: True
+- Weight sharing: False	 - Auxiliary loss: False
+**********************************************************
+
+The mean error on training target (%):  1.9 with a std of:  1.35
+The mean error on testing target (%):  17.47 with a std of:  0.57
+The last layer's mean Benchmark error at training (%):  47.76 with a std of:  14.93
+The last layer's mean Benchmark error at testing (%):  47.88 with a std of:  13.25
+
+
+**********************************************************
+- Model: Net	 - lr: 0.03	 - BatchNorm: True
+- Weight sharing: True	 - Auxiliary loss: False
+**********************************************************
+
+The mean error on training target (%):  0.6 with a std of:  0.78
+The mean error on testing target (%):  15.91 with a std of:  1.63
+The last layer's mean Benchmark error at training (%):  43.0 with a std of:  15.58
+The last layer's mean Benchmark error at testing (%):  42.87 with a std of:  13.82
+
+
+**********************************************************
+- Model: LeNet5	 - lr: 0.005	 - BatchNorm: True
+- Weight sharing: True	 - Auxiliary loss: False
+**********************************************************
+
+The mean error on training target (%):  0.14 with a std of:  0.32
+The mean error on testing target (%):  13.63 with a std of:  1.16
+The last layer's mean Benchmark error at training (%):  51.85 with a std of:  21.85
+The last layer's mean Benchmark error at testing (%):  50.58 with a std of:  19.47
+
+
+**********************************************************
+- Model: LeNet5_FullyConv	 - lr: 0.05	 - BatchNorm: True
+- Weight sharing: True	 - Auxiliary loss: False
+**********************************************************
+
+The mean error on training target (%):  0.43 with a std of:  0.44
+The mean error on testing target (%):  13.49 with a std of:  1.13
+The last layer's mean Benchmark error at training (%):  44.43 with a std of:  13.56
+The last layer's mean Benchmark error at testing (%):  45.29 with a std of:  11.4
+
+
+**********************************************************
+- Model: ResNet	 - lr: 0.005	 - BatchNorm: True
+- Weight sharing: True	 - Auxiliary loss: False
+**********************************************************
+
+The mean error on training target (%):  2.25 with a std of:  1.24
+The mean error on testing target (%):  14.97 with a std of:  1.67
+The last layer's mean Benchmark error at training (%):  54.16 with a std of:  17.45
+The last layer's mean Benchmark error at testing (%):  55.04 with a std of:  15.64
+
+
+**********************************************************
+- Model: Net	 - lr: 0.03	 - BatchNorm: True
+- Weight sharing: False	 - Auxiliary loss: True
+**********************************************************
+
+The mean error on classes img 1 at training (%):  0.09 with a std of:  0.28
+The mean error on classes img 2 at training (%):  0.16 with a std of:  0.51
+The mean error on classes img 1 at testing (%):  5.33 with a std of:  0.74
+The mean error on classes img 2 at testing (%):  6.13 with a std of:  1.17
+The mean error on training target (%):  0.15 with a std of:  0.47
+The mean error on testing target (%):  8.72 with a std of:  1.12
+The last layer's mean Benchmark error at training (%):  0.2 with a std of:  0.63
+The last layer's mean Benchmark error at testing (%):  7.61 with a std of:  0.89
+
+
+**********************************************************
+- Model: LeNet5	 - lr: 0.005	 - BatchNorm: True
+- Weight sharing: False	 - Auxiliary loss: True
+**********************************************************
+
+The mean error on classes img 1 at training (%):  0.0 with a std of:  0.0
+The mean error on classes img 2 at training (%):  0.0 with a std of:  0.0
+The mean error on classes img 1 at testing (%):  4.56 with a std of:  0.65
+The mean error on classes img 2 at testing (%):  4.85 with a std of:  0.58
+The mean error on training target (%):  0.0 with a std of:  0.0
+The mean error on testing target (%):  6.15 with a std of:  0.91
+The last layer's mean Benchmark error at training (%):  0.0 with a std of:  0.0
+The last layer's mean Benchmark error at testing (%):  4.97 with a std of:  0.84
+
+
+**********************************************************
+- Model: LeNet5_FullyConv	 - lr: 0.05	 - BatchNorm: True
+- Weight sharing: False	 - Auxiliary loss: True
+**********************************************************
+
+The mean error on classes img 1 at training (%):  0.04 with a std of:  0.07
+The mean error on classes img 2 at training (%):  0.02 with a std of:  0.04
+The mean error on classes img 1 at testing (%):  6.49 with a std of:  0.5
+The mean error on classes img 2 at testing (%):  6.03 with a std of:  0.76
+The mean error on training target (%):  0.01 with a std of:  0.03
+The mean error on testing target (%):  5.11 with a std of:  0.74
+The last layer's mean Benchmark error at training (%):  0.02 with a std of:  0.04
+The last layer's mean Benchmark error at testing (%):  2.96 with a std of:  0.6
+
+
+**********************************************************
+- Model: ResNet	 - lr: 0.005	 - BatchNorm: True
+- Weight sharing: False	 - Auxiliary loss: True
+**********************************************************
+
+The mean error on classes img 1 at training (%):  0.03 with a std of:  0.09
+The mean error on classes img 2 at training (%):  0.0 with a std of:  0.0
+The mean error on classes img 1 at testing (%):  3.51 with a std of:  0.51
+The mean error on classes img 2 at testing (%):  3.97 with a std of:  0.34
+The mean error on training target (%):  0.08 with a std of:  0.25
+The mean error on testing target (%):  6.98 with a std of:  0.63
+The last layer's mean Benchmark error at training (%):  0.09 with a std of:  0.28
+The last layer's mean Benchmark error at testing (%):  5.56 with a std of:  0.49
+
+
+**********************************************************
+- Model: Net	 - lr: 0.03	 - BatchNorm: True
+- Weight sharing: True	 - Auxiliary loss: True
+**********************************************************
+
+The mean error on classes img 1 at training (%):  0.0 with a std of:  0.0
+The mean error on classes img 2 at training (%):  0.0 with a std of:  0.0
+The mean error on classes img 1 at testing (%):  3.97 with a std of:  0.58
+The mean error on classes img 2 at testing (%):  3.95 with a std of:  0.48
+The mean error on training target (%):  0.0 with a std of:  0.0
+The mean error on testing target (%):  6.91 with a std of:  0.91
+The last layer's mean Benchmark error at training (%):  0.0 with a std of:  0.0
+The last layer's mean Benchmark error at testing (%):  6.37 with a std of:  1.19
+
+
+**********************************************************
+- Model: LeNet5	 - lr: 0.005	 - BatchNorm: True
+- Weight sharing: True	 - Auxiliary loss: True
+**********************************************************
+
+The mean error on classes img 1 at training (%):  0.0 with a std of:  0.0
+The mean error on classes img 2 at training (%):  0.0 with a std of:  0.0
+The mean error on classes img 1 at testing (%):  2.97 with a std of:  0.39
+The mean error on classes img 2 at testing (%):  3.13 with a std of:  0.36
+The mean error on training target (%):  0.0 with a std of:  0.0
+The mean error on testing target (%):  6.08 with a std of:  0.8
+The last layer's mean Benchmark error at training (%):  0.0 with a std of:  0.0
+The last layer's mean Benchmark error at testing (%):  5.44 with a std of:  0.76
+
+
+**********************************************************
+- Model: LeNet5_FullyConv	 - lr: 0.05	 - BatchNorm: True
+- Weight sharing: True	 - Auxiliary loss: True
+**********************************************************
+
+The mean error on classes img 1 at training (%):  0.11 with a std of:  0.07
+The mean error on classes img 2 at training (%):  0.12 with a std of:  0.06
+The mean error on classes img 1 at testing (%):  4.69 with a std of:  0.45
+The mean error on classes img 2 at testing (%):  4.64 with a std of:  0.44
+The mean error on training target (%):  0.0 with a std of:  0.0
+The mean error on testing target (%):  3.63 with a std of:  0.75
+The last layer's mean Benchmark error at training (%):  0.11 with a std of:  0.1
+The last layer's mean Benchmark error at testing (%):  2.02 with a std of:  0.42
+
+
+**********************************************************
+- Model: ResNet	 - lr: 0.005	 - BatchNorm: True
+- Weight sharing: True	 - Auxiliary loss: True
+**********************************************************
+
+The mean error on classes img 1 at training (%):  0.01 with a std of:  0.03
+The mean error on classes img 2 at training (%):  0.0 with a std of:  0.0
+The mean error on classes img 1 at testing (%):  2.71 with a std of:  0.35
+The mean error on classes img 2 at testing (%):  2.75 with a std of:  0.24
+The mean error on training target (%):  0.0 with a std of:  0.0
+The mean error on testing target (%):  5.16 with a std of:  0.58
+The last layer's mean Benchmark error at training (%):  0.01 with a std of:  0.03
+The last layer's mean Benchmark error at testing (%):  4.47 with a std of:  0.51
+torch.Size([2, 1, 4, 2, 8])
+tensor([[[[[0.0900, 0.1600, 5.3300, 6.1300, 0.1500, 8.7200, 0.2000, 7.6100],
+           [0.2846, 0.5060, 0.7364, 1.1729, 0.4743, 1.1203, 0.6325, 0.8925]],
+
+          [[0.0000, 0.0000, 4.5600, 4.8500, 0.0000, 6.1500, 0.0000, 4.9700],
+           [0.0000, 0.0000, 0.6518, 0.5836, 0.0000, 0.9107, 0.0000, 0.8407]],
+
+          [[0.0400, 0.0200, 6.4900, 6.0300, 0.0100, 5.1100, 0.0200, 2.9600],
+           [0.0699, 0.0422, 0.4954, 0.7602, 0.0316, 0.7370, 0.0422, 0.5967]],
+
+          [[0.0300, 0.0000, 3.5100, 3.9700, 0.0800, 6.9800, 0.0900, 5.5600],
+           [0.0949, 0.0000, 0.5065, 0.3401, 0.2530, 0.6250, 0.2846, 0.4904]]]],
+
+
+
+        [[[[0.0000, 0.0000, 3.9700, 3.9500, 0.0000, 6.9100, 0.0000, 6.3700],
+           [0.0000, 0.0000, 0.5755, 0.4813, 0.0000, 0.9146, 0.0000, 1.1945]],
+
+          [[0.0000, 0.0000, 2.9700, 3.1300, 0.0000, 6.0800, 0.0000, 5.4400],
+           [0.0000, 0.0000, 0.3860, 0.3592, 0.0000, 0.8025, 0.0000, 0.7648]],
+
+          [[0.1100, 0.1200, 4.6900, 4.6400, 0.0000, 3.6300, 0.1100, 2.0200],
+           [0.0738, 0.0632, 0.4483, 0.4427, 0.0000, 0.7484, 0.0994, 0.4211]],
+
+          [[0.0100, 0.0000, 2.7100, 2.7500, 0.0000, 5.1600, 0.0100, 4.4700],
+           [0.0316, 0.0000, 0.3510, 0.2415, 0.0000, 0.5797, 0.0316, 0.5122]]]]])
+torch.Size([2, 1, 4, 2, 4])
+tensor([[[[[ 0.0600, 17.7000, 51.9100, 52.3900],
+           [ 0.1897,  1.2175,  7.2310,  6.1773]],
+
+          [[ 1.0400, 16.4600, 53.5300, 52.7600],
+           [ 2.0057,  1.9219, 18.9335, 14.7055]],
+
+          [[ 0.4400, 17.2000, 55.7900, 56.0000],
+           [ 0.3438,  1.0614,  9.0934,  8.0420]],
+
+          [[ 1.9000, 17.4700, 47.7600, 47.8800],
+           [ 1.3540,  0.5697, 14.9290, 13.2527]]]],
+
+
+
+        [[[[ 0.6000, 15.9100, 43.0000, 42.8700],
+           [ 0.7775,  1.6272, 15.5761, 13.8177]],
+
+          [[ 0.1400, 13.6300, 51.8500, 50.5800],
+           [ 0.3169,  1.1615, 21.8546, 19.4731]],
+
+          [[ 0.4300, 13.4900, 44.4300, 45.2900],
+           [ 0.4448,  1.1279, 13.5585, 11.4030]],
+
+          [[ 2.2500, 14.9700, 54.1600, 55.0400],
+           [ 1.2394,  1.6667, 17.4535, 15.6360]]]]])

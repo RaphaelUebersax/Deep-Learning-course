@@ -1,0 +1,187 @@
+
+ITERATION  0
+Loss at epoch  0 :  3.1033400297164917
+Loss at epoch  20 :  2.366516336798668
+Loss at epoch  40 :  1.7303138822317123
+Loss at epoch  60 :  1.0186311230063438
+Loss at epoch  80 :  0.697380006313324
+Loss at epoch  100 :  0.5957767181098461
+Loss at epoch  120 :  0.5358991473913193
+Loss at epoch  140 :  0.48832693323493004
+Loss at epoch  160 :  0.4514273516833782
+Loss at epoch  180 :  0.4088609628379345
+Loss at epoch  200 :  0.3771756626665592
+Loss at epoch  220 :  0.3619734849780798
+Loss at epoch  240 :  0.3308923523873091
+
+Missclassified on training:  2.4 %
+Missclassified on testing:  2.2 %
+
+ITERATION  1
+Loss at epoch  0 :  2.959834337234497
+Loss at epoch  20 :  2.4612794667482376
+Loss at epoch  40 :  2.285968601703644
+Loss at epoch  60 :  1.5066165700554848
+Loss at epoch  80 :  0.8732599094510078
+Loss at epoch  100 :  0.7210229858756065
+Loss at epoch  120 :  0.606927789747715
+Loss at epoch  140 :  0.5232426077127457
+Loss at epoch  160 :  0.5051458030939102
+Loss at epoch  180 :  0.46278534829616547
+Loss at epoch  200 :  0.45271920040249825
+Loss at epoch  220 :  0.43101639300584793
+Loss at epoch  240 :  0.4185981135815382
+
+Missclassified on training:  2.8 %
+Missclassified on testing:  2.9 %
+
+ITERATION  2
+Loss at epoch  0 :  2.787158250808716
+Loss at epoch  20 :  2.425795540213585
+Loss at epoch  40 :  1.9771830886602402
+Loss at epoch  60 :  1.0355331897735596
+Loss at epoch  80 :  0.763871394097805
+Loss at epoch  100 :  0.6564449742436409
+Loss at epoch  120 :  0.6070686914026737
+Loss at epoch  140 :  0.5702635645866394
+Loss at epoch  160 :  0.5235306322574615
+Loss at epoch  180 :  0.478697519749403
+Loss at epoch  200 :  0.4525925926864147
+Loss at epoch  220 :  0.41622038558125496
+Loss at epoch  240 :  0.3941994607448578
+
+Missclassified on training:  3.8 %
+Missclassified on testing:  2.9 %
+
+ITERATION  3
+Loss at epoch  0 :  2.872412770986557
+Loss at epoch  20 :  2.4669937789440155
+Loss at epoch  40 :  2.1777616441249847
+Loss at epoch  60 :  1.2601095885038376
+Loss at epoch  80 :  0.7969419285655022
+Loss at epoch  100 :  0.6667844727635384
+Loss at epoch  120 :  0.599442083388567
+Loss at epoch  140 :  0.5474794544279575
+Loss at epoch  160 :  0.5255229659378529
+Loss at epoch  180 :  0.4915136657655239
+Loss at epoch  200 :  0.45353463292121887
+Loss at epoch  220 :  0.42496236972510815
+Loss at epoch  240 :  0.370778102427721
+
+Missclassified on training:  4.5 %
+Missclassified on testing:  4.6 %
+
+ITERATION  4
+Loss at epoch  0 :  2.682321861386299
+Loss at epoch  20 :  2.022427558898926
+Loss at epoch  40 :  1.103123962879181
+Loss at epoch  60 :  0.8175166323781013
+Loss at epoch  80 :  0.6823628358542919
+Loss at epoch  100 :  0.6209276393055916
+Loss at epoch  120 :  0.5867050997912884
+Loss at epoch  140 :  0.5161954797804356
+Loss at epoch  160 :  0.5044363364577293
+Loss at epoch  180 :  0.46582526713609695
+Loss at epoch  200 :  0.4490693658590317
+Loss at epoch  220 :  0.43107719346880913
+Loss at epoch  240 :  0.41827693209052086
+
+Missclassified on training:  2.6 %
+Missclassified on testing:  3.2 %
+
+ITERATION  5
+Loss at epoch  0 :  2.7208844423294067
+Loss at epoch  20 :  2.414281189441681
+Loss at epoch  40 :  1.9699885100126266
+Loss at epoch  60 :  0.9748171344399452
+Loss at epoch  80 :  0.7941030487418175
+Loss at epoch  100 :  0.6518675684928894
+Loss at epoch  120 :  0.5805665552616119
+Loss at epoch  140 :  0.5449899025261402
+Loss at epoch  160 :  0.5104432255029678
+Loss at epoch  180 :  0.4727158360183239
+Loss at epoch  200 :  0.44021546095609665
+Loss at epoch  220 :  0.42879925668239594
+Loss at epoch  240 :  0.41996291652321815
+
+Missclassified on training:  1.7 %
+Missclassified on testing:  1.6 %
+
+ITERATION  6
+Loss at epoch  0 :  3.0482430458068848
+Loss at epoch  20 :  2.2141485065221786
+Loss at epoch  40 :  1.399260751903057
+Loss at epoch  60 :  0.8231743052601814
+Loss at epoch  80 :  0.6664071157574654
+Loss at epoch  100 :  0.5610692761838436
+Loss at epoch  120 :  0.5253593325614929
+Loss at epoch  140 :  0.4581597074866295
+Loss at epoch  160 :  0.430540569126606
+Loss at epoch  180 :  0.39602559991180897
+Loss at epoch  200 :  0.3533727712929249
+Loss at epoch  220 :  0.3347700033336878
+Loss at epoch  240 :  0.33101062290370464
+
+Missclassified on training:  3.2 %
+Missclassified on testing:  3.4 %
+
+ITERATION  7
+Loss at epoch  0 :  3.158833011984825
+Loss at epoch  20 :  2.3357610255479813
+Loss at epoch  40 :  1.45445067435503
+Loss at epoch  60 :  0.6679757982492447
+Loss at epoch  80 :  0.7557594552636147
+Loss at epoch  100 :  0.6855895407497883
+Loss at epoch  120 :  0.6289179213345051
+Loss at epoch  140 :  0.5702543444931507
+Loss at epoch  160 :  0.5501830093562603
+Loss at epoch  180 :  0.5157431401312351
+Loss at epoch  200 :  0.4806929863989353
+Loss at epoch  220 :  0.4341038353741169
+Loss at epoch  240 :  0.40785201638936996
+
+Missclassified on training:  4.2 %
+Missclassified on testing:  3.8 %
+
+ITERATION  8
+Loss at epoch  0 :  2.8000579327344894
+Loss at epoch  20 :  2.2817624360322952
+Loss at epoch  40 :  1.1630105078220367
+Loss at epoch  60 :  0.7457950040698051
+Loss at epoch  80 :  0.6219917833805084
+Loss at epoch  100 :  0.5334676057100296
+Loss at epoch  120 :  0.5060053654015064
+Loss at epoch  140 :  0.47619638964533806
+Loss at epoch  160 :  0.4564710557460785
+Loss at epoch  180 :  0.4287138506770134
+Loss at epoch  200 :  0.4097299575805664
+Loss at epoch  220 :  0.40103255584836006
+Loss at epoch  240 :  0.38227133825421333
+
+Missclassified on training:  3.2 %
+Missclassified on testing:  3.1 %
+
+ITERATION  9
+Loss at epoch  0 :  3.185437947511673
+Loss at epoch  20 :  2.4507275074720383
+Loss at epoch  40 :  2.032815992832184
+Loss at epoch  60 :  1.3328928872942924
+Loss at epoch  80 :  0.8681133538484573
+Loss at epoch  100 :  0.6796725653111935
+Loss at epoch  120 :  0.57184749096632
+Loss at epoch  140 :  0.5216980315744877
+Loss at epoch  160 :  0.500854354351759
+Loss at epoch  180 :  0.4773978814482689
+Loss at epoch  200 :  0.44430064782500267
+Loss at epoch  220 :  0.4152746982872486
+Loss at epoch  240 :  0.4058583006262779
+
+Missclassified on training:  1.4 %
+Missclassified on testing:  2.1 %
+
+
+Training data mean error (%):  2.98
+Training data error (%) std dev:  1.012
+
+Test data mean error (%):  2.98
+Test data error (%) std dev:  0.872

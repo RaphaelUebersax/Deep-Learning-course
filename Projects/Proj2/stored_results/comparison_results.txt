@@ -1,0 +1,379 @@
+ITERATION  0
+Training with Pytorch:
+Loss at epoch  0 :  2.6376043558120728
+Loss at epoch  20 :  2.4807009249925613
+Loss at epoch  40 :  2.4568541944026947
+Loss at epoch  60 :  2.404933527112007
+Loss at epoch  80 :  2.2878906279802322
+Loss at epoch  100 :  2.0101045966148376
+Loss at epoch  120 :  1.221361331641674
+Loss at epoch  140 :  0.8410002216696739
+Loss at epoch  160 :  0.7838696911931038
+Loss at epoch  180 :  0.7408656775951385
+Loss at epoch  200 :  0.7164357416331768
+Loss at epoch  220 :  0.6937608607113361
+Loss at epoch  240 :  0.6697124727070332
+
+Training with our model: 
+Loss at epoch  0 :  2.637604385614395
+Loss at epoch  20 :  2.480700969696045
+Loss at epoch  40 :  2.4568541049957275
+Loss at epoch  60 :  2.404933452606201
+Loss at epoch  80 :  2.287890672683716
+Loss at epoch  100 :  2.0101045817136765
+Loss at epoch  120 :  1.2213610410690308
+Loss at epoch  140 :  0.8410000130534172
+Loss at epoch  160 :  0.7838698104023933
+Loss at epoch  180 :  0.7408655248582363
+Loss at epoch  200 :  0.7164357490837574
+Loss at epoch  220 :  0.6937608495354652
+Loss at epoch  240 :  0.6697125546634197
+
+Number of errors with Pytorch on training set (%):  3.4
+Number of errors with our model on training set (%):  3.4
+Number of errors with Pytorch on test set (%):  3.0
+Number of errors with our model on test set (%):  3.0
+
+
+ITERATION  1
+Training with Pytorch:
+Loss at epoch  0 :  2.801884815096855
+Loss at epoch  20 :  2.4861820936203003
+Loss at epoch  40 :  2.4607572853565216
+Loss at epoch  60 :  2.3678866922855377
+Loss at epoch  80 :  1.864303395152092
+Loss at epoch  100 :  1.6403882950544357
+Loss at epoch  120 :  1.5443352684378624
+Loss at epoch  140 :  1.3742806613445282
+Loss at epoch  160 :  0.994725227355957
+Loss at epoch  180 :  0.8124050498008728
+Loss at epoch  200 :  0.7506579980254173
+Loss at epoch  220 :  0.7176586389541626
+Loss at epoch  240 :  0.6926040686666965
+
+Training with our model: 
+Loss at epoch  0 :  2.8018847852945328
+Loss at epoch  20 :  2.4861821234226227
+Loss at epoch  40 :  2.460757300257683
+Loss at epoch  60 :  2.367886543273926
+Loss at epoch  80 :  1.8643032908439636
+Loss at epoch  100 :  1.6403882503509521
+Loss at epoch  120 :  1.5443350747227669
+Loss at epoch  140 :  1.3742806687951088
+Loss at epoch  160 :  0.9947252348065376
+Loss at epoch  180 :  0.8124051317572594
+Loss at epoch  200 :  0.7506579682230949
+Loss at epoch  220 :  0.7176587358117104
+Loss at epoch  240 :  0.6926040537655354
+
+Number of errors with Pytorch on training set (%):  3.8
+Number of errors with our model on training set (%):  3.8
+Number of errors with Pytorch on test set (%):  3.8
+Number of errors with our model on test set (%):  3.8
+
+
+ITERATION  2
+Training with Pytorch:
+Loss at epoch  0 :  2.6009151488542557
+Loss at epoch  20 :  2.493616357445717
+Loss at epoch  40 :  2.484183892607689
+Loss at epoch  60 :  2.4699534475803375
+Loss at epoch  80 :  2.4408885091543198
+Loss at epoch  100 :  2.3427457362413406
+Loss at epoch  120 :  2.073375031352043
+Loss at epoch  140 :  1.6234177723526955
+Loss at epoch  160 :  1.248670607805252
+Loss at epoch  180 :  0.9586190581321716
+Loss at epoch  200 :  0.8480207696557045
+Loss at epoch  220 :  0.8089214488863945
+Loss at epoch  240 :  0.7870544567704201
+
+Training with our model: 
+Loss at epoch  0 :  2.600915014743805
+Loss at epoch  20 :  2.4936163425445557
+Loss at epoch  40 :  2.484183892607689
+Loss at epoch  60 :  2.4699533730745316
+Loss at epoch  80 :  2.440888434648514
+Loss at epoch  100 :  2.342745617032051
+Loss at epoch  120 :  2.0733749717473984
+Loss at epoch  140 :  1.6234174892306328
+Loss at epoch  160 :  1.2486703768372536
+Loss at epoch  180 :  0.958618700504303
+Loss at epoch  200 :  0.848020926117897
+Loss at epoch  220 :  0.8089214637875557
+Loss at epoch  240 :  0.7870544046163559
+
+Number of errors with Pytorch on training set (%):  3.3
+Number of errors with our model on training set (%):  3.3
+Number of errors with Pytorch on test set (%):  4.3
+Number of errors with our model on test set (%):  4.3
+
+
+ITERATION  3
+Training with Pytorch:
+Loss at epoch  0 :  3.0792726427316666
+Loss at epoch  20 :  2.479125991463661
+Loss at epoch  40 :  2.456229940056801
+Loss at epoch  60 :  2.4058279395103455
+Loss at epoch  80 :  2.1894001811742783
+Loss at epoch  100 :  1.6323611438274384
+Loss at epoch  120 :  1.0964878872036934
+Loss at epoch  140 :  0.9687468335032463
+Loss at epoch  160 :  0.903483085334301
+Loss at epoch  180 :  0.8404022976756096
+Loss at epoch  200 :  0.7788294926285744
+Loss at epoch  220 :  0.7303007058799267
+Loss at epoch  240 :  0.6937995366752148
+
+Training with our model: 
+Loss at epoch  0 :  3.0792726427316666
+Loss at epoch  20 :  2.4791259765625
+Loss at epoch  40 :  2.4562299847602844
+Loss at epoch  60 :  2.405827969312668
+Loss at epoch  80 :  2.1893999576568604
+Loss at epoch  100 :  1.632361114025116
+Loss at epoch  120 :  1.096487931907177
+Loss at epoch  140 :  0.9687468260526657
+Loss at epoch  160 :  0.90348319709301
+Loss at epoch  180 :  0.8404024913907051
+Loss at epoch  200 :  0.7788295075297356
+Loss at epoch  220 :  0.730300784111023
+Loss at epoch  240 :  0.6937995664775372
+
+Number of errors with Pytorch on training set (%):  2.3
+Number of errors with our model on training set (%):  2.3
+Number of errors with Pytorch on test set (%):  2.5
+Number of errors with our model on test set (%):  2.5
+
+
+ITERATION  4
+Training with Pytorch:
+Loss at epoch  0 :  2.8007378429174423
+Loss at epoch  20 :  2.482106700539589
+Loss at epoch  40 :  2.4492476135492325
+Loss at epoch  60 :  2.3259240239858627
+Loss at epoch  80 :  1.8084070086479187
+Loss at epoch  100 :  1.4677181169390678
+Loss at epoch  120 :  1.0452361330389977
+Loss at epoch  140 :  0.8408088535070419
+Loss at epoch  160 :  0.7756820544600487
+Loss at epoch  180 :  0.7457368075847626
+Loss at epoch  200 :  0.719158336520195
+Loss at epoch  220 :  0.6907316632568836
+Loss at epoch  240 :  0.6587608866393566
+
+Training with our model: 
+Loss at epoch  0 :  2.8007377684116364
+Loss at epoch  20 :  2.4821066707372665
+Loss at epoch  40 :  2.4492477774620056
+Loss at epoch  60 :  2.3259240835905075
+Loss at epoch  80 :  1.8084069341421127
+Loss at epoch  100 :  1.4677179455757141
+Loss at epoch  120 :  1.0452357828617096
+Loss at epoch  140 :  0.8408086076378822
+Loss at epoch  160 :  0.7756820544600487
+Loss at epoch  180 :  0.745736837387085
+Loss at epoch  200 :  0.7191583588719368
+Loss at epoch  220 :  0.6907316483557224
+Loss at epoch  240 :  0.6587609946727753
+
+Number of errors with Pytorch on training set (%):  3.2
+Number of errors with our model on training set (%):  3.2
+Number of errors with Pytorch on test set (%):  3.2
+Number of errors with our model on test set (%):  3.2
+
+
+ITERATION  5
+Training with Pytorch:
+Loss at epoch  0 :  2.8925004303455353
+Loss at epoch  20 :  2.483751103281975
+Loss at epoch  40 :  2.4404318928718567
+Loss at epoch  60 :  2.2715346962213516
+Loss at epoch  80 :  1.7799629867076874
+Loss at epoch  100 :  1.5144758969545364
+Loss at epoch  120 :  1.0104764103889465
+Loss at epoch  140 :  0.8285145089030266
+Loss at epoch  160 :  0.7750712931156158
+Loss at epoch  180 :  0.7468474954366684
+Loss at epoch  200 :  0.7274760529398918
+Loss at epoch  220 :  0.7115467637777328
+Loss at epoch  240 :  0.6966004967689514
+
+Training with our model: 
+Loss at epoch  0 :  2.89250048995018
+Loss at epoch  20 :  2.48375104367733
+Loss at epoch  40 :  2.4404319524765015
+Loss at epoch  60 :  2.271534487605095
+Loss at epoch  80 :  1.779962882399559
+Loss at epoch  100 :  1.5144758373498917
+Loss at epoch  120 :  1.010476440191269
+Loss at epoch  140 :  0.8285143822431564
+Loss at epoch  160 :  0.7750712260603905
+Loss at epoch  180 :  0.7468474581837654
+Loss at epoch  200 :  0.7274760231375694
+Loss at epoch  220 :  0.7115467563271523
+Loss at epoch  240 :  0.6966004185378551
+
+Number of errors with Pytorch on training set (%):  3.6
+Number of errors with our model on training set (%):  3.6
+Number of errors with Pytorch on test set (%):  4.1
+Number of errors with our model on test set (%):  4.1
+
+
+ITERATION  6
+Training with Pytorch:
+Loss at epoch  0 :  3.0049604326486588
+Loss at epoch  20 :  2.4864470064640045
+Loss at epoch  40 :  2.4724861532449722
+Loss at epoch  60 :  2.4458491057157516
+Loss at epoch  80 :  2.3561312556266785
+Loss at epoch  100 :  1.7444113790988922
+Loss at epoch  120 :  1.5824134200811386
+Loss at epoch  140 :  1.4123507365584373
+Loss at epoch  160 :  0.9661997854709625
+Loss at epoch  180 :  0.7805328294634819
+Loss at epoch  200 :  0.7349789664149284
+Loss at epoch  220 :  0.7183235809206963
+Loss at epoch  240 :  0.7003744579851627
+
+Training with our model: 
+Loss at epoch  0 :  3.0049604177474976
+Loss at epoch  20 :  2.4864470213651657
+Loss at epoch  40 :  2.472486212849617
+Loss at epoch  60 :  2.445849046111107
+Loss at epoch  80 :  2.356131389737129
+Loss at epoch  100 :  1.7444116175174713
+Loss at epoch  120 :  1.5824136286973953
+Loss at epoch  140 :  1.412351131439209
+Loss at epoch  160 :  0.9662007912993431
+Loss at epoch  180 :  0.780532956123352
+Loss at epoch  200 :  0.7349791266024113
+Loss at epoch  220 :  0.7183237671852112
+Loss at epoch  240 :  0.7003745473921299
+
+Number of errors with Pytorch on training set (%):  3.2
+Number of errors with our model on training set (%):  3.2
+Number of errors with Pytorch on test set (%):  2.9
+Number of errors with our model on test set (%):  2.9
+
+
+ITERATION  7
+Training with Pytorch:
+Loss at epoch  0 :  2.713252067565918
+Loss at epoch  20 :  2.487877696752548
+Loss at epoch  40 :  2.4758299738168716
+Loss at epoch  60 :  2.4559116661548615
+Loss at epoch  80 :  2.4013550728559494
+Loss at epoch  100 :  2.108003944158554
+Loss at epoch  120 :  1.7188196033239365
+Loss at epoch  140 :  1.4853997081518173
+Loss at epoch  160 :  0.9835846945643425
+Loss at epoch  180 :  0.8572465032339096
+Loss at epoch  200 :  0.7916123420000076
+Loss at epoch  220 :  0.7408463731408119
+Loss at epoch  240 :  0.7011086605489254
+
+Training with our model: 
+Loss at epoch  0 :  2.713252142071724
+Loss at epoch  20 :  2.487877666950226
+Loss at epoch  40 :  2.475829839706421
+Loss at epoch  60 :  2.4559117406606674
+Loss at epoch  80 :  2.4013549089431763
+Loss at epoch  100 :  2.1080037653446198
+Loss at epoch  120 :  1.7188195139169693
+Loss at epoch  140 :  1.485400028526783
+Loss at epoch  160 :  0.9835844412446022
+Loss at epoch  180 :  0.8572464138269424
+Loss at epoch  200 :  0.7916124686598778
+Loss at epoch  220 :  0.7408464029431343
+Loss at epoch  240 :  0.7011086829006672
+
+Number of errors with Pytorch on training set (%):  3.5
+Number of errors with our model on training set (%):  3.5
+Number of errors with Pytorch on test set (%):  3.7
+Number of errors with our model on test set (%):  3.7
+
+
+ITERATION  8
+Training with Pytorch:
+Loss at epoch  0 :  3.0531573742628098
+Loss at epoch  20 :  2.4755568355321884
+Loss at epoch  40 :  2.449445366859436
+Loss at epoch  60 :  2.404082700610161
+Loss at epoch  80 :  2.2488641142845154
+Loss at epoch  100 :  1.9681653678417206
+Loss at epoch  120 :  1.5215888246893883
+Loss at epoch  140 :  1.0693240389227867
+Loss at epoch  160 :  0.8370146304368973
+Loss at epoch  180 :  0.7765847891569138
+Loss at epoch  200 :  0.7450676709413528
+Loss at epoch  220 :  0.7239339500665665
+Loss at epoch  240 :  0.7042395658791065
+
+Training with our model: 
+Loss at epoch  0 :  3.053157389163971
+Loss at epoch  20 :  2.4755567610263824
+Loss at epoch  40 :  2.4494453072547913
+Loss at epoch  60 :  2.4040825963020325
+Loss at epoch  80 :  2.248864024877548
+Loss at epoch  100 :  1.9681651890277863
+Loss at epoch  120 :  1.5215886905789375
+Loss at epoch  140 :  1.0693243071436882
+Loss at epoch  160 :  0.8370145261287689
+Loss at epoch  180 :  0.7765849828720093
+Loss at epoch  200 :  0.7450677528977394
+Loss at epoch  220 :  0.7239339798688889
+Loss at epoch  240 :  0.7042395956814289
+
+Number of errors with Pytorch on training set (%):  3.9
+Number of errors with our model on training set (%):  3.9
+Number of errors with Pytorch on test set (%):  3.1
+Number of errors with our model on test set (%):  3.1
+
+
+ITERATION  9
+Training with Pytorch:
+Loss at epoch  0 :  3.0109089612960815
+Loss at epoch  20 :  2.4849773347377777
+Loss at epoch  40 :  2.472573146224022
+Loss at epoch  60 :  2.4560128301382065
+Loss at epoch  80 :  2.424570545554161
+Loss at epoch  100 :  2.317407488822937
+Loss at epoch  120 :  1.878756359219551
+Loss at epoch  140 :  1.5634592026472092
+Loss at epoch  160 :  1.3896508291363716
+Loss at epoch  180 :  1.0786602273583412
+Loss at epoch  200 :  0.8855507895350456
+Loss at epoch  220 :  0.8214148730039597
+Loss at epoch  240 :  0.7818868234753609
+
+Training with our model: 
+Loss at epoch  0 :  3.010908931493759
+Loss at epoch  20 :  2.4849773943424225
+Loss at epoch  40 :  2.472573161125183
+Loss at epoch  60 :  2.4560127556324005
+Loss at epoch  80 :  2.424570545554161
+Loss at epoch  100 :  2.317407473921776
+Loss at epoch  120 :  1.8787557482719421
+Loss at epoch  140 :  1.563459224998951
+Loss at epoch  160 :  1.389650784432888
+Loss at epoch  180 :  1.07866021245718
+Loss at epoch  200 :  0.8855505734682083
+Loss at epoch  220 :  0.8214149698615074
+Loss at epoch  240 :  0.7818867415189743
+
+Number of errors with Pytorch on training set (%):  3.0
+Number of errors with our model on training set (%):  3.0
+Number of errors with Pytorch on test set (%):  4.3
+Number of errors with our model on test set (%):  4.3
+
+
+Mean number of errors on train set with Pytorch:  3.32
+Standard deviation of the number of errors on train set with Pytorch:  0.454
+Mean number of errors on train set with our model:  3.32
+Standard deviation of the number of errors on train set with our model:  0.454
+
+Mean number of errors on test set with Pytorch:  3.49
+Standard deviation of the number of errors on test set with Pytorch:  0.635
+Mean number of errors on test set with our model:  3.49
+Standard deviation of the number of errors on test set with our model:  0.635

@@ -1,0 +1,166 @@
+--------------- Loading data ---------------
+--------------- Data loaded ---------------
+
+
+
+**********************************************************
+- Model: LeNet5	 - lr: 0.005	 - BatchNorm: False
+- Weight sharing: False	 - Dropout: False
+**********************************************************
+
+The mean error on classes img 1 at training (%):  0.25 with a std of:  0.5
+The mean error on classes img 2 at training (%):  0.26 with a std of:  0.48
+The mean error on classes img 1 at testing (%):  7.53 with a std of:  1.32
+The mean error on classes img 2 at testing (%):  8.83 with a std of:  2.43
+The mean error on training target (%):  0.75 with a std of:  1.29
+The mean error on testing target (%):  9.62 with a std of:  2.74
+The last layer's mean Benchmark error at training (%):  0.75 with a std of:  1.23
+The last layer's mean Benchmark error at testing (%):  7.61 with a std of:  2.26
+
+
+**********************************************************
+- Model: LeNet5	 - lr: 0.005	 - BatchNorm: False
+- Weight sharing: False	 - Dropout: True
+**********************************************************
+
+The mean error on classes img 1 at training (%):  0.72 with a std of:  0.42
+The mean error on classes img 2 at training (%):  0.55 with a std of:  0.36
+The mean error on classes img 1 at testing (%):  8.71 with a std of:  1.71
+The mean error on classes img 2 at testing (%):  9.37 with a std of:  2.3
+The mean error on training target (%):  2.13 with a std of:  0.79
+The mean error on testing target (%):  10.12 with a std of:  1.64
+The last layer's mean Benchmark error at training (%):  2.14 with a std of:  0.8
+The last layer's mean Benchmark error at testing (%):  8.59 with a std of:  1.24
+
+
+**********************************************************
+- Model: LeNet5	 - lr: 0.005	 - BatchNorm: True
+- Weight sharing: False	 - Dropout: False
+**********************************************************
+
+The mean error on classes img 1 at training (%):  0.0 with a std of:  0.0
+The mean error on classes img 2 at training (%):  0.0 with a std of:  0.0
+The mean error on classes img 1 at testing (%):  4.56 with a std of:  0.65
+The mean error on classes img 2 at testing (%):  4.85 with a std of:  0.58
+The mean error on training target (%):  0.0 with a std of:  0.0
+The mean error on testing target (%):  6.15 with a std of:  0.91
+The last layer's mean Benchmark error at training (%):  0.0 with a std of:  0.0
+The last layer's mean Benchmark error at testing (%):  4.97 with a std of:  0.84
+
+
+**********************************************************
+- Model: LeNet5	 - lr: 0.005	 - BatchNorm: True
+- Weight sharing: False	 - Dropout: True
+**********************************************************
+
+The mean error on classes img 1 at training (%):  0.38 with a std of:  0.26
+The mean error on classes img 2 at training (%):  0.37 with a std of:  0.21
+The mean error on classes img 1 at testing (%):  6.26 with a std of:  0.86
+The mean error on classes img 2 at testing (%):  6.51 with a std of:  1.06
+The mean error on training target (%):  1.24 with a std of:  0.41
+The mean error on testing target (%):  8.59 with a std of:  0.79
+The last layer's mean Benchmark error at training (%):  1.28 with a std of:  0.39
+The last layer's mean Benchmark error at testing (%):  7.23 with a std of:  0.98
+
+
+**********************************************************
+- Model: LeNet5	 - lr: 0.005	 - BatchNorm: False
+- Weight sharing: True	 - Dropout: False
+**********************************************************
+
+The mean error on classes img 1 at training (%):  0.04 with a std of:  0.13
+The mean error on classes img 2 at training (%):  0.05 with a std of:  0.13
+The mean error on classes img 1 at testing (%):  5.6 with a std of:  1.95
+The mean error on classes img 2 at testing (%):  5.72 with a std of:  2.04
+The mean error on training target (%):  0.08 with a std of:  0.15
+The mean error on testing target (%):  7.02 with a std of:  0.92
+The last layer's mean Benchmark error at training (%):  0.1 with a std of:  0.2
+The last layer's mean Benchmark error at testing (%):  6.31 with a std of:  1.6
+
+
+**********************************************************
+- Model: LeNet5	 - lr: 0.005	 - BatchNorm: False
+- Weight sharing: True	 - Dropout: True
+**********************************************************
+
+The mean error on classes img 1 at training (%):  0.29 with a std of:  0.17
+The mean error on classes img 2 at training (%):  0.39 with a std of:  0.28
+The mean error on classes img 1 at testing (%):  6.29 with a std of:  0.81
+The mean error on classes img 2 at testing (%):  6.43 with a std of:  1.27
+The mean error on training target (%):  1.36 with a std of:  0.32
+The mean error on testing target (%):  7.32 with a std of:  1.01
+The last layer's mean Benchmark error at training (%):  1.41 with a std of:  0.41
+The last layer's mean Benchmark error at testing (%):  6.24 with a std of:  1.18
+
+
+**********************************************************
+- Model: LeNet5	 - lr: 0.005	 - BatchNorm: True
+- Weight sharing: True	 - Dropout: False
+**********************************************************
+
+The mean error on classes img 1 at training (%):  0.0 with a std of:  0.0
+The mean error on classes img 2 at training (%):  0.0 with a std of:  0.0
+The mean error on classes img 1 at testing (%):  2.97 with a std of:  0.39
+The mean error on classes img 2 at testing (%):  3.13 with a std of:  0.36
+The mean error on training target (%):  0.0 with a std of:  0.0
+The mean error on testing target (%):  6.08 with a std of:  0.8
+The last layer's mean Benchmark error at training (%):  0.0 with a std of:  0.0
+The last layer's mean Benchmark error at testing (%):  5.44 with a std of:  0.76
+
+
+**********************************************************
+- Model: LeNet5	 - lr: 0.005	 - BatchNorm: True
+- Weight sharing: True	 - Dropout: True
+**********************************************************
+
+The mean error on classes img 1 at training (%):  0.42 with a std of:  0.27
+The mean error on classes img 2 at training (%):  0.42 with a std of:  0.31
+The mean error on classes img 1 at testing (%):  4.5 with a std of:  0.61
+The mean error on classes img 2 at testing (%):  4.79 with a std of:  0.72
+The mean error on training target (%):  1.31 with a std of:  0.7
+The mean error on testing target (%):  6.71 with a std of:  0.88
+The last layer's mean Benchmark error at training (%):  1.38 with a std of:  0.75
+The last layer's mean Benchmark error at testing (%):  5.72 with a std of:  0.74
+tensor([[[[[ 0.2500,  0.2600,  7.5300,  8.8300,  0.7500,  9.6200,  0.7500,
+             7.6100],
+           [ 0.5039,  0.4789,  1.3158,  2.4276,  1.2903,  2.7373,  1.2313,
+             2.2605]],
+
+          [[ 0.7200,  0.5500,  8.7100,  9.3700,  2.1300, 10.1200,  2.1400,
+             8.5900],
+           [ 0.4158,  0.3629,  1.7058,  2.3027,  0.7903,  1.6376,  0.8003,
+             1.2441]]],
+
+
+         [[[ 0.0000,  0.0000,  4.5600,  4.8500,  0.0000,  6.1500,  0.0000,
+             4.9700],
+           [ 0.0000,  0.0000,  0.6518,  0.5836,  0.0000,  0.9107,  0.0000,
+             0.8407]],
+
+          [[ 0.3800,  0.3700,  6.2600,  6.5100,  1.2400,  8.5900,  1.2800,
+             7.2300],
+           [ 0.2616,  0.2111,  0.8592,  1.0598,  0.4115,  0.7909,  0.3938,
+             0.9787]]]],
+
+
+
+        [[[[ 0.0400,  0.0500,  5.6000,  5.7200,  0.0800,  7.0200,  0.1000,
+             6.3100],
+           [ 0.1265,  0.1269,  1.9539,  2.0406,  0.1476,  0.9211,  0.2000,
+             1.6045]],
+
+          [[ 0.2900,  0.3900,  6.2900,  6.4300,  1.3600,  7.3200,  1.4100,
+             6.2400],
+           [ 0.1729,  0.2767,  0.8117,  1.2658,  0.3204,  1.0053,  0.4067,
+             1.1843]]],
+
+
+         [[[ 0.0000,  0.0000,  2.9700,  3.1300,  0.0000,  6.0800,  0.0000,
+             5.4400],
+           [ 0.0000,  0.0000,  0.3860,  0.3592,  0.0000,  0.8025,  0.0000,
+             0.7648]],
+
+          [[ 0.4200,  0.4200,  4.5000,  4.7900,  1.3100,  6.7100,  1.3800,
+             5.7200],
+           [ 0.2700,  0.3120,  0.6146,  0.7172,  0.7031,  0.8800,  0.7495,
+             0.7361]]]]])
